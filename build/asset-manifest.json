@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd919c57.css",
+    "main.js": "/static/js/main.91c658e4.js",
+    "static/media/leo.png": "/static/media/leo.73f57a7626ba123ad398.png",
+    "static/media/mysql.PNG": "/static/media/mysql.4af5a404a6cb87820add.PNG",
+    "static/media/diplomado.jpg": "/static/media/diplomado.ef8f120c79815ebd89b1.jpg",
+    "static/media/titulo.jpg": "/static/media/titulo.8b551a9fb566b3ba79e1.jpg",
+    "static/media/cloud.PNG": "/static/media/cloud.633611921083405205b2.PNG",
+    "static/media/c++.jpg": "/static/media/c++.a0639f930f04cd20c68b.jpg",
+    "static/media/java.jpg": "/static/media/java.20e0ec20417f7671607e.jpg",
+    "static/media/ciber.PNG": "/static/media/ciber.92504589122836cc50a3.PNG",
+    "static/media/marca.PNG": "/static/media/marca.118d354c56b989c7fbe1.PNG",
+    "static/media/trabajoRemoto.PNG": "/static/media/trabajoRemoto.70e1b46afeb8015d96d9.PNG",
+    "static/media/react.png": "/static/media/react.23fd0138effeef952d73.png",
+    "static/media/git.PNG": "/static/media/git.d10b471f6ee7233479f4.PNG",
+    "static/media/img3.jpg": "/static/media/img3.caaedb4021acc06e533a.jpg",
+    "static/media/bootstrap.png": "/static/media/bootstrap.323492a55f3421bf0688.png",
+    "static/media/teams.PNG": "/static/media/teams.53d06179003ec302cf8b.PNG",
+    "static/media/chess.png": "/static/media/chess.2d31864e5aaaaa3f96e4.png",
+    "static/media/c-plus-plus.png": "/static/media/c-plus-plus.bac6af85fe3ff5796f13.png",
+    "static/media/html.png": "/static/media/html.fd1fe32f1127d850fa39.png",
+    "static/media/js.jpg": "/static/media/js.d37684aea3d32640b359.jpg",
+    "static/media/css.png": "/static/media/css.cbea6150e2917bd6f0f3.png",
+    "static/media/python.png": "/static/media/python.c9957f6cdcef84ecf6dd.png",
+    "index.html": "/index.html",
+    "main.fd919c57.css.map": "/static/css/main.fd919c57.css.map",
+    "main.91c658e4.js.map": "/static/js/main.91c658e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd919c57.css",
+    "static/js/main.91c658e4.js"
+  ]
+}
